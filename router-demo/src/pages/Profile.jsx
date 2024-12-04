@@ -6,7 +6,8 @@ function Profile() {
       <div>
         <h3>User Information</h3>
         <p>Name: Jeremy </p>
-        <p>Email: jeremy@example.com</p>
+        <p>Email: jeremy
+            @example.com</p>
       </div>
     </div>
   );
