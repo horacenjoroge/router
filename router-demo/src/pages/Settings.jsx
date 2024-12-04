@@ -7,8 +7,8 @@ function Settings() {
         <h3>App Settings</h3>
         <ul>
           <li>Notifications</li>
-          <li>Theme</li>
-          <li>Privacy</li>
+          <li>Happy</li>
+          <li>Coding</li>
         </ul>
       </div>
     </div>
